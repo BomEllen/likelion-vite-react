@@ -5,29 +5,29 @@ React 학습 시작을 위한 사용자 정의 템플릿
 개발 서버 구동
 
 ```sh
-pnpm dev
+npm run dev
 ```
 
 프로젝트 빌드
 
 ```sh
-pnpm build
+npm run build
 ``` 
 
 프로젝트 프리뷰
 
 ```sh
-pnpm preview
+npm run preview
 ```
 
 린팅 검사
 
 ```sh
-pnpm lint
+npm run lint
 ```
 
 포멧팅
 
 ```sh
-pnpm format
+npm run format
 ```

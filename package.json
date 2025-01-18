@@ -10,7 +10,7 @@
     "vscode": ">=1.9.0"
   },
   "scripts": {
-    "start": "pnpm dev --open",
+    "start": "npm run dev --open",
     "dev": "vite --host",
     "build": "tsc && vite build",
     "preview": "vite preview",
